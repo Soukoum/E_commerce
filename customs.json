@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "align": {
+            "context": "form"
+        },
+        "required": {
+            "context": "option"
+        }
+    }
+}
